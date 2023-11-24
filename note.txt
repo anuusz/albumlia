@@ -1,0 +1,4 @@
+resize pake https://www.iloveimg.com/resize-image#resize-options,pixels
+cari 20 foto sebagian ada yang landscape
+file utama ada di ~dist
+upload ke git or vercel kasih lia terakhir sebelum natal
